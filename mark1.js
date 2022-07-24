@@ -41,17 +41,6 @@ function play(ques, ans)
   console.log("current score", score)
   console.log("---------------------")
   
-  // console.log("press e to exit the quiz or any other key to continue")
-  // var exit =rs.question()
-  // var end="e"
-  // if(end.toUpperCase()===exit.toUpperCase())
-  // {
-  //   return "Quiz stopped"
-  // }
-  // else{
-  //   console.log("let's move towards next ques")
-  // }
-
 }
 
 // creating array of objects 
