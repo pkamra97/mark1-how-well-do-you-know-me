@@ -1,4 +1,5 @@
 // Input process for program
+// Mark-1 how well do you know me
 var rs= require('readline-sync')
 var name =rs.question('Welcome to the Quizmania please enter your name ')
 //intialising score for player
